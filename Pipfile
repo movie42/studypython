@@ -10,7 +10,7 @@ flake8 = "*"
 black = "*"
 
 [packages]
-django = "==3.0.8"
+django = "==3.0.14"
 
 [requires]
 python_version = "3.8"
